@@ -1,1 +1,1 @@
-# mySonar
+# jenkins-sonarqube
