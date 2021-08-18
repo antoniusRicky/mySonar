@@ -2,7 +2,7 @@ node {
   stage('SCM') {
     checkout scm
   }
-  stage('') {
+  stage('ss') {
     bat 'echo gg.c'
   }
   stage('SonarQube Analysis') {
