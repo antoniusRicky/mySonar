@@ -7,7 +7,7 @@ public class Main {
 	public static void main(String[] args) {
 		System.out.println(CONSTANT2);
 		while(true) {
-			
+			break;
 		}
 	}
 }
