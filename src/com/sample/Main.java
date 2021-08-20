@@ -11,7 +11,7 @@ public class Main {
 			System.out.println(CONSTANT2);
 		}
 		else {
-			System.out.println("0000ss000j0");
+			System.out.println("00g00ss000j0");
 		}
 	}
 }
